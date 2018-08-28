@@ -1,0 +1,6 @@
+string basis_name
+float32 scale_factor
+float32 percentile
+sensor_msgs/Image input_image
+---
+sensor_msgs/Image infomap

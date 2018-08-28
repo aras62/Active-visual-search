@@ -1,0 +1,7 @@
+sensor_msgs/Image template_image
+sensor_msgs/Image input_image
+int16 num_bins
+bool normalize
+string color_space
+---
+sensor_msgs/Image backproj_image
